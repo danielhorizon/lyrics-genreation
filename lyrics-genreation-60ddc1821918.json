@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lyrics-genreation",
+  "private_key_id": "60ddc1821918d1a82599984fbb5c99ab964a9676",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCzEVm2/+EaIRVa\nXIPIrZBWt8UL+4clWm7dPXuD7QkYXexU8EG7r6INTangDGCcBW8cXBtk2qT4Of+4\nriej2ncscxH7bpz7OlGzlsZphnUUvOdxQrw9b4suhypEdG0KQakImENpiNhRsPZZ\n5iu52KUq+tcRKB6YmfPKOl85Y9MNI1V7AVEve5ytbMDArRAvSSrqvLyaudZEiTF/\nbFTWISVGZVb/bDt/yG5DJkWqSOp/ag0NG8SR7qByUICLDMiev3QB7GoNMAu3uHLQ\na/8w4V4T5xbdP3YMXj+7/4hiKCPGZRgQ06c5lTgy9BBnI6ueIZlVbOpQiFzgUpZZ\nfl7B22+hAgMBAAECgf8fIGT36oK2iAmuK2a8+26bpFYcPxy+4Xlj+8v8ordyBOGP\n4jOK7Hy+00E0MPKaLFekFl6sqVUD0REiiSNa2B7fGyGFEzU2dmy9SvgyX6z6bdvN\nVExkYX9QFy7Bt3s8zS0U0WLmdWMk0B4CgoAXThFn5zJ7SP4IiLpX7M2grDmDjtZb\nyXFmSOYZhp4E4oJBSibswuFEojg9FFswi/jjZpEVRrOK4ZcX3jmRAdjp+HKG27Ku\nwgvlTqnd0AiM5K7UBOt+ZKkxQcvHzqTT3vO0oOWCdPgaWGdGX18c9aGpI33nALgw\n86RqTilURqT0ULl6fC4pfHIVLuGRUs2UUMrQ+vsCgYEA2RfsnLcjUwtlusB0cSM9\n1kXN25zbEkoo3JxiTe3Y0MyYodbaziH6bRupENAgGbDkpgwvIRZBnfyYnS5fzH5S\nnSfxjdebAV7raMvizl2uSKavP+yaLnmFh/bBAQ4NAWgcaxr5HSNvV5v1IWEylPvm\nloWGu3eqtMTqWovC1WgXfMMCgYEA0yjWkOF2Nimm2pioo/7SVkljDthmBt7Eddr3\n1mHSp/wkPWR/Z8K4CikHxSA9v5Bb1vLLrhq4LJs/p77lK8BXRvTxV2b0B0EyJgGT\nFn9SIwOiY4opjsrJflMo/JHVOSTJaa/VvqCEW4BYQR0vVxnVbGSDxAYlxk4BbUL7\njlgya8sCgYBUXDqjD3uXmrc2YfEdwd8Ws9tx+rsamVzVlaORutplEQxC35X5QjTp\nTzVchjPjJ91CNTvfNKHc/bpkYg/yDCiYT1xLjTv7xWHfQFNrc/X032j8gznK04gz\nNIz9lvMw178rU7j4PLvYpI8WIIoiYNzTIyIfGTppspeLBgJ5IVD3NwKBgHqipyrx\npqQCQMOIEbldD2/Jo1xF1ct7qYIBMBs0KRIi4DE/orbyYcyU08xq0zHkd1I5JI3z\nOq+9YpTby2FDjezJ6TintGZaOPPVykUwoNVxEOjanxQtNiTFy3IUiE9tzAQzeOID\ne5tgyODYQFxHxqnzHovEPkATocSBOHQNSQtNAoGAd7P1PS/Ghv896x1JY1+fn2xC\nC0FL0omdyskfZeDq1ZXekDRbx0edfdI+JZfh4oPXRCipwRA6sU3b7u6kXKuNXyQc\n7e0rHjuT14HB04LWymiTKLlpTsdzaXZPmsCQBt8ZKZECcF5etn4HoCCV720j8Neq\nv7Avc0KBc4PDSgMHMAs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bob-982@lyrics-genreation.iam.gserviceaccount.com",
+  "client_id": "110826014250587516286",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bob-982%40lyrics-genreation.iam.gserviceaccount.com"
+}
