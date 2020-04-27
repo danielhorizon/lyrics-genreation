@@ -1,10 +1,13 @@
 # lyrics-genreation
 song lyric generation
 
+master data: 
+- located at: https://drive.google.com/file/d/1RHVhaJ2EqtOKGfIynoSSPmeDEmiIP14M/view?usp=sharing
 master processed data:
 - located at: https://drive.google.com/file/d/1XHHV0V7zrwabdp_BCoQkxrO4SU7FCO8K/view?usp=sharing
 
 other useful repos: 
+- http://mlexplained.com/2018/02/15/language-modeling-tutorial-in-torchtext-practical-torchtext-part-2/ 
 - https://github.com/petrosDemetrakopoulos/RNN-Beatles-lyrics-generator
 - https://github.com/deeplearningathome/pytorch-language-model/blob/master/ptb-lm.py
 
