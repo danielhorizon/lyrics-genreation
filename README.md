@@ -2,9 +2,7 @@
 song lyric generation
 
 master data: 
-- located at: https://drive.google.com/file/d/1RHVhaJ2EqtOKGfIynoSSPmeDEmiIP14M/view?usp=sharing
-master processed data:
-- located at: https://drive.google.com/file/d/1XHHV0V7zrwabdp_BCoQkxrO4SU7FCO8K/view?usp=sharing
+- located at: https://drive.google.com/drive/folders/1jx4UQUpXARMphFirV3ImBk2rs41AI2Nc?usp=sharing
 
 other useful repos: 
 - http://mlexplained.com/2018/02/15/language-modeling-tutorial-in-torchtext-practical-torchtext-part-2/ 
