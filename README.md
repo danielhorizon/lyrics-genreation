@@ -2,7 +2,7 @@
 song lyric generation
 
 master processed data:
-- located at: 
+- located at: https://drive.google.com/file/d/1XHHV0V7zrwabdp_BCoQkxrO4SU7FCO8K/view?usp=sharing
 
 other useful repos: 
 - https://github.com/petrosDemetrakopoulos/RNN-Beatles-lyrics-generator
