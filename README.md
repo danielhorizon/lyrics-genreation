@@ -6,7 +6,6 @@ master processed data:
 
 other useful repos: 
 - https://github.com/petrosDemetrakopoulos/RNN-Beatles-lyrics-generator
-- https://github.com/petrosDemetrakopoulos/RNN-Beatles-lyrics-generator
 - https://github.com/deeplearningathome/pytorch-language-model/blob/master/ptb-lm.py
 
 other links: 
