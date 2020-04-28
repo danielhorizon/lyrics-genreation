@@ -4,8 +4,13 @@ song lyric generation
 master data: 
 - located at: https://drive.google.com/drive/folders/1jx4UQUpXARMphFirV3ImBk2rs41AI2Nc?usp=sharing
 
-other useful repos: 
+useful: 
+- https://www.kaggle.com/super13579/let-s-auto-write-the-deep-purple-lysics-pytorch
+- https://machinelearningmastery.com/how-to-develop-a-word-level-neural-language-model-in-keras/
+- https://towardsdatascience.com/generating-drake-rap-lyrics-using-language-models-and-lstms-8725d71b1b12
 - http://mlexplained.com/2018/02/15/language-modeling-tutorial-in-torchtext-practical-torchtext-part-2/ 
+
+other useful repos: 
 - https://github.com/petrosDemetrakopoulos/RNN-Beatles-lyrics-generator
 - https://github.com/deeplearningathome/pytorch-language-model/blob/master/ptb-lm.py
 
