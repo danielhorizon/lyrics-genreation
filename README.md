@@ -2,9 +2,7 @@
 song lyric generation
 
 master data: 
-- located at: https://drive.google.com/file/d/1RHVhaJ2EqtOKGfIynoSSPmeDEmiIP14M/view?usp=sharing
-master processed data:
-- located at: https://drive.google.com/file/d/1XHHV0V7zrwabdp_BCoQkxrO4SU7FCO8K/view?usp=sharing
+- located at: https://drive.google.com/drive/folders/1jx4UQUpXARMphFirV3ImBk2rs41AI2Nc?usp=sharing
 
 other useful repos: 
 - http://mlexplained.com/2018/02/15/language-modeling-tutorial-in-torchtext-practical-torchtext-part-2/ 
@@ -16,3 +14,6 @@ other links:
 - https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html
 - https://colab.research.google.com/drive/1cxV6EnEhNswNDkpTYMMJd-uWGZLABnN0?authuser=1
 - http://warmspringwinds.github.io/pytorch/rnns/2018/01/27/learning-to-generate-lyrics-and-music-with-recurrent-neural-networks/
+
+project proposal: 
+- https://docs.google.com/document/d/1R07e1d30E247ZdEA7FET4HlkiZah9oXJIez3zPBFCy8/edit
